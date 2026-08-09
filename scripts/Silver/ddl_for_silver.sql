@@ -3,6 +3,10 @@
 Script Purpose:
     Creates the Silver layer tables used to store cleaned and standardized data
     from the Bronze layer.
+Actions:
+    1. Drops existing Silver tables if they already exist.
+    2. Creates the Silver tables with appropriate data types.
+    3. Adds dwh_create_date to track row load timestamps.
 
 Parameters:
     None.
