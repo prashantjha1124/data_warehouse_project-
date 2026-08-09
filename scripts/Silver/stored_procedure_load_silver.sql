@@ -4,6 +4,16 @@ Script Purpose:
     Loads and transforms data from the Bronze layer into the Silver layer.
     Applies data cleansing, standardization, validation, and deduplication.
 
+Actions:
+    1. Truncates existing Silver tables.
+    2. Extracts data from Bronze tables.
+    3. Cleans, transforms, and standardizes the data.
+    4. Removes duplicate customer records.
+    5. Handles invalid and missing values.
+    6. Loads the transformed data into Silver tables.
+    7. Logs individual and total load durations.
+    8. Handles and reports loading errors.
+
 Parameters:
     The stored procedure doesn't accept any variables or doesn't return any value.
 
