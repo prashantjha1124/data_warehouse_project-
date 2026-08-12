@@ -111,3 +111,22 @@ This project involves:
 
 * [**Notion**](https://www.notion.com/): Used to plan, organize, and document the project. It helped track tasks, maintain notes, record important decisions, and keep the development process structured from start to finish.
 
+---
+
+🚀 Project Requirements
+**Building the Data Warehouse (Data Engineering)**
+Objective
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+## 📋 Specifications
+
+* **Data Sources:** Import data from two source systems (ERP and CRM) provided as CSV files.
+
+* **Data Quality:** Cleanse, standardize, and resolve data quality issues before loading the data into the analytical layer.
+
+* **Integration:** Combine data from both sources into a single, user-friendly data model optimized for analytical queries.
+
+* **Scope:** Focus only on the latest available dataset; historical data tracking and historization are not required.
+
+* **Documentation:** Provide clear documentation of the data model and transformations to support both business stakeholders and analytics teams.
+
