@@ -1,4 +1,4 @@
-<img width="807" height="420" alt="image" src="https://github.com/user-attachments/assets/beb8f415-a05b-4a7c-9dda-937f017cd1a7" /># SQL Data Warehouse & Analytics Project
+# SQL Data Warehouse & Analytics Project
 
 A hands-on **Data Warehouse and Analytics project built with SQL Server**, following the **Medallion Architecture** approach.
 
@@ -27,7 +27,7 @@ The project focuses on:
 
 This project follows a **Medallion Architecture** consisting of three layers:
 
-
+<img width="807" height="420" alt="image" src="https://github.com/user-attachments/assets/beb8f415-a05b-4a7c-9dda-937f017cd1a7" />
 
 
 
