@@ -71,17 +71,25 @@ These views are designed to support SQL analysis and reporting.
 This project involves:
 
 1.**Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+
 2.**ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
+
 3.**Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
+
 4.**Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
 -SQL Development
+
 -Data Architect
+
 -Data Engineering
+
 -ETL Pipeline Developer
+
 -Data Modeling
+
 -Data Analytics
 
 ---
@@ -89,9 +97,17 @@ This project involves:
 
 🛠️ Important Links & Tools:
 
--[here](Datasets/): Access to the project dataset (csv files).
--[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):Lightweight server for hosting your SQL database.
--[SQL Server Management Studio](https://learn.microsoft.com/en-us/ssms/install/install?view=sql-server-ver16):GUI for managing and interacting with databases.
--[Github Repository](https://github.com/):Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
--[DrawIO](https://www.drawio.com/):Design data architecture, models, flows, and diagrams.
--[Notion](https://www.notion.com/): To plan, organize and document and helped me track the project tasks, maintain notes, document important decisions, and keep development process structured from start to end.
+## 🛠️ Tools & Resources
+
+* [**Datasets**](https://github.com/prashantjha1124/data_warehouse_project-/tree/main/Datasets): Access the datasets used in this project, including the CSV files.
+
+* [**SQL Server Express**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Lightweight SQL Server edition used to host and manage the project database.
+
+* [**SQL Server Management Studio (SSMS)**](https://learn.microsoft.com/en-us/ssms/install/install?view=sql-server-ver16): GUI tool used to manage, query, and interact with the SQL Server database.
+
+* [**GitHub**](https://github.com/): Used for version control, project management, documentation, and maintaining the project source code.
+
+* [**Draw.io**](https://www.drawio.com/): Used to design data architecture, data models, workflows, and project diagrams.
+
+* [**Notion**](https://www.notion.com/): Used to plan, organize, and document the project. It helped track tasks, maintain notes, record important decisions, and keep the development process structured from start to finish.
+
