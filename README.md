@@ -27,7 +27,6 @@ The project focuses on:
 
 This project follows a **Medallion Architecture** consisting of three layers:
 
-<img width="807" height="420" alt="image" src="https://github.com/user-attachments/assets/beb8f415-a05b-4a7c-9dda-937f017cd1a7" />
 
 
 
@@ -71,19 +70,28 @@ These views are designed to support SQL analysis and reporting.
 📖 Project Overview
 This project involves:
 
-1.Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
-
-2.ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
-
-3.Data Modeling: Developing fact and dimension tables optimized for analytical queries.
-
-4.Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+1.**Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+2.**ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
+3.**Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
+4.**Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
-SQL Development
-Data Architect
-Data Engineering
-ETL Pipeline Developer
-Data Modeling
-Data Analytics
+-SQL Development
+-Data Architect
+-Data Engineering
+-ETL Pipeline Developer
+-Data Modeling
+-Data Analytics
+
+---
+
+
+🛠️ Important Links & Tools:
+
+-[here](Datasets/): Access to the project dataset (csv files).
+-[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):Lightweight server for hosting your SQL database.
+-[SQL Server Management Studio](https://learn.microsoft.com/en-us/ssms/install/install?view=sql-server-ver16):GUI for managing and interacting with databases.
+-[Github Repository](https://github.com/):Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+-[DrawIO](https://www.drawio.com/):Design data architecture, models, flows, and diagrams.
+-[Notion](https://www.notion.com/): To plan, organize and document and helped me track the project tasks, maintain notes, document important decisions, and keep development process structured from start to end.
