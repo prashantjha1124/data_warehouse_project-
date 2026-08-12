@@ -113,10 +113,14 @@ This project involves:
 
 ---
 
-🚀 Project Requirements
-**Building the Data Warehouse (Data Engineering)**
-Objective
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+## 🚀 Project Requirements
+
+### 🏗️ Building the Data Warehouse — Data Engineering
+
+**Objective**
+
+Develop a modern data warehouse using **SQL Server** to consolidate sales data from multiple source systems, transform it into a clean and integrated data model, and enable efficient analytical reporting and data-driven decision-making.
+
 
 ## 📋 Specifications
 
@@ -130,3 +134,11 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 * **Documentation:** Provide clear documentation of the data model and transformations to support both business stakeholders and analytics teams.
 
+
+## 🛡️ License
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this project in accordance with the terms of the license.
+
+## 🌟 About Me
+
+Hi there! I'm **Prashant Jha**, a Computer Engineering student with a strong interest in **Data Analytics, SQL, and Data Engineering**. I enjoy working with data, building practical projects, and continuously improving my technical skills. Through my projects, I aim to turn raw data into meaningful insights while developing a strong foundation in modern data technologies.
